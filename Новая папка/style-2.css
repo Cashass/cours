@@ -82,7 +82,8 @@ display: block;
 }
 .popup {
 	position: absolute;
-	/* display: none; */
+	/* Скрыл меню */
+	/*display: none; */
 	top: 100px;
 	right: -50px;
 	width: 380px;
